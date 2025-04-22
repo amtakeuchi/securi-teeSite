@@ -1,0 +1,19 @@
+title: Adam Takeuchi
+description: "Hey  — I'm Adam, and this is my portfolio site. I'm into cybersecurity, cloud tech, and always learning new things in IT. This space is where I share my projects, skills, and thoughts as I grow in the tech world. Feel free to look around, reach out, or connect — I’m always open to chatting or collaborating"
+url: "https://securi-tee.com
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+markdown: kramdown
+permalink: pretty
+
+# Navigation links
+header_pages:
+  - index.md
+  - projects.md
+  - blog.md
+  - contact.md
